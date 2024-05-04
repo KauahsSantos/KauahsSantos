@@ -34,13 +34,6 @@
   </a>
 </div> 
 
----
-
-![snake gif](https://github.com/kauahsSantos/KauahsSantos/blob/output/github-contribution-grid-snake.svg)
-
-![snake gif](https://github.com/KauahsSantos/KauahsSantos/blob/output/github-contribution-grid-snake.gif)
-
----
  
 ### Main skills:
 <a><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
@@ -77,6 +70,14 @@
 Nome | Data | Linguagens | Frameworks | Feramantas | Participantes | Descrição
 ---|---|---|---|---|---|---|
 [**Exercícios HTML & CSS**](https://github.com/KauahsSantos/Exercicios-HTML-CSS) | 01/04/2024 | <a href=""><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a><a href=""><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a><a href=""> | | <a href=""><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a><a href="[https://github.com/KauahsSantos/](https://github.com/KauahsSantos/Exercicios-HTML-CSS)"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a><a href=""><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a><a href=""><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a> | [***@KauahsSantos***](https://github.com/KauahsSantos) | Vários exercícios que venho fazendo sobre HTML e CSS 
+
+---
+
+---
+
+![snake gif](https://github.com/kauahsSantos/KauahsSantos/blob/output/github-contribution-grid-snake.svg)
+
+![snake gif](https://github.com/KauahsSantos/KauahsSantos/blob/output/github-contribution-grid-snake.gif)
 
 ---
 
