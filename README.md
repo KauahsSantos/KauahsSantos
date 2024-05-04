@@ -11,15 +11,18 @@
 [![KauahsSantos github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KauahsSantos&bg_color=dracula&color=001090&line=fff&point=001090&area=true&border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
-  <a href="https://www.instagram.com/kaua.santos.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <a href="https://www.linkedin.com/in/kau%C3%A3-hiago-da-silva-santos-8931522ba/ target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?  style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
-  <a href="https://www.linkedin.com/in/kau%C3%A3-hiago-da-silva-santos-8931522ba/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
   <a href="https://www.youtube.com/@Kaua.hs.Santos/featured">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
+  <a href="https://www.twitch.tv/kauahiago" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.instagram.com/kaua.santos.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a> 
   <a href="  https://twitter.com/Kaua_hs_Santos_">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
