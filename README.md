@@ -70,7 +70,7 @@ Nome | Data | Linguagens | Frameworks | Feramantas | Participantes | Descrição
 
 ---
 
-![Snakeanimation](https://github.com/KauahsSantos/KauahsSantos/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/KauahsSantos/KauahsSantos/blob/output/github-contribution-grid-snake.svg)
 
 ![Snake animation](https://github.com/KauahsSantos/KauahsSantos/blob/output/github-contribuation-grid-snake.svg)
 
