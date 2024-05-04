@@ -12,7 +12,7 @@
 
 <div align="center">  
   <a href="https://www.linkedin.com/in/kau%C3%A3-hiago-da-silva-santos-8931522ba/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?  style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
   <a href="https://www.youtube.com/@Kaua.hs.Santos/featured">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
