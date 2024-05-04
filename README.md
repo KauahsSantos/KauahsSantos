@@ -36,7 +36,7 @@
 
 ---
 
-![snake gif](https://github.com/artur-debv/artur-debv/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/kauahsSantos/KauahsSantos/blob/output/github-contribution-grid-snake.svg)
 
 ---
  
