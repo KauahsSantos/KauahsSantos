@@ -33,8 +33,6 @@
 </div> 
  
 ### Main skills:
-<!-- ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117);
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117) -->
  
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 
@@ -43,20 +41,8 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
-
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)
  
 ### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=176FA6&labelColor=0D1117)
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)
-![Eclipse](https://img.shields.io/badge/-eclipse-0D1117?style=for-the-badge&logo=eclipse&logoColor=192060&labelColor=0D1117)
-![NetBeans](https://img.shields.io/badge/-Net_Beans-0D1117?style=for-the-badge&logo=net-beans&labelColor=0D1117)
-![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&labelColor=0D1117)
 
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
@@ -77,13 +63,6 @@
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   
 ### Studying in this moment:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)
-![Tailwind.js](https://img.shields.io/badge/-Tailwind.js-0D1117?style=for-the-badge&logo=tailwind&labelColor=0D1117)
-![Tauri](https://img.shields.io/badge/-Tauri-0D1117?style=for-the-badge&logo=tauri&logolColor=blue&labelColor=0D1117)
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 
@@ -98,6 +77,8 @@
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+
+![Tauri](https://img.shields.io/badge/--0D1117?style=for-the-badge&logo=tauri&logolColor=blue&labelColor=0D1117)
 
 ---
 
