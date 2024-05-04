@@ -73,10 +73,11 @@ Nome | Data | Linguagens | Frameworks | Feramantas | Participantes | Descrição
 
 ---
 
----
+<div align="center">  
+  
+  ![snake gif](https://github.com/kauahsSantos/KauahsSantos/blob/output/github-contribution-grid-snake.svg)
 
-![snake gif](https://github.com/kauahsSantos/KauahsSantos/blob/output/github-contribution-grid-snake.svg)
-
+</div>
 ---
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=001090&height=180&section=footer&text=Bye&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=60"/>
