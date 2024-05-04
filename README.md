@@ -36,7 +36,7 @@
 
 ---
 
-![Snake animation](https://github.com/KauahsSantos/KauahsSantos/blob/output/github-contribuation-grid-snake.svg)
+![Snake animation](https://github.com/KauahsSantos/KauahsSantos/blob/output/github-contribution-grid-snake.svg)
 
 ---
  
