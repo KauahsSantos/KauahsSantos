@@ -23,11 +23,15 @@
   <a href="https://www.instagram.com/kaua.santos.dev/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="  https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
-  <a href=" https://twitter.com/Kaua_hs_Santos_">
+  <a href="https://www.tiktok.com/@kaua.santos.dev" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" Alt="TikTok Badge" >
+  </a>
+  <a href="https://twitter.com/Kaua_hs_Santos_">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
+  <a href="https://codepen.io/KauahsSantos" target="_blank">
+    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" Alt="CodePen Badge" >
+  </a>
 </div> 
 
 ---
