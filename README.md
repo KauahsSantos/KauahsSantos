@@ -29,6 +29,8 @@
   </a>
   <a href="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
 </div> 
+
+---
  
 ### Main skills:
 <a><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
@@ -57,6 +59,16 @@
 <a href=""><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
 <a href=""><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
 <a href=""><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></a>
+
+---
+
+### My Projects:
+
+Nome | Data | Linguagens | Frameworks | Feramantas | Participantes | Descrição
+---|---|---|---|---|---|---|
+[**Exercícios HTML & CSS**](https://github.com/KauahsSantos/Exercicios-HTML-CSS) | 01/04/2024 | <a href=""><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a><a href=""><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a><a href=""> | | <a href=""><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a><a href=""><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a><a href=""><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a><a href=""><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a> | @KauahsSantos | Sistema que Gera uma escola
+
+---
 
 ![Snakeanimation](https://github.com/KauahsSantos/KauahsSantos/blob/output/github-contribution-grid-snake.svg)
 
