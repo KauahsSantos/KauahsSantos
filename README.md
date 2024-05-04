@@ -58,6 +58,6 @@
 <a href=""><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
 <a href=""><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></a>
 
-![Snake animation](https://github.com/KauahsSantos/KauahsSantos/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/artur-devb/artur-devb/blob/output/github-contribution-grid-snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=001090&height=180&section=footer&text=Bye&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=60"/>
