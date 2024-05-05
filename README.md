@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=001090&height=180&section=header&text=Kauã+Santos&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=001090&height=180&section=header&text=Hi,+World!!!++I'm+Kauã+Santos&fontSize=25&fontColor=fff&animation=twinkling&fontAlignY=35"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=001090&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+Name's+Kauã+Santos.;I'm+16+years+old;I+am+from+SP,+São+Paulo+Brasil;I'm+a+just+Study+Software+Development.;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
