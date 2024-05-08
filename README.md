@@ -69,7 +69,7 @@
 
 ### Learning in the Moment:
 
- | Segunda | Terça | Querta | Quinta | Sexta | Sábado e Dominto 
+---| Segunda | Terça | Querta | Quinta | Sexta | Sábado e Dominto 
 ---|---|---|---|---|---|
 **Ferramenta** | | | | | |
 **Por que?** | | | | | |
