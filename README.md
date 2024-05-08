@@ -67,6 +67,15 @@
 
 ---
 
+### Learning:
+
+Segunda | Terça | Querta | Quinta | Sexta | Sábado e Dominto 
+---|---|---|---|---|---|
+**Ferramenta** | | | | | |
+**Por que** | | | | | |
+
+---
+
 ### My Projects:
 
 Nome | Data | Linguagens | Frameworks | Ferramentas | Participantes | Descrição
