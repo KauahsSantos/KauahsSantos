@@ -55,7 +55,7 @@
 <a href=""><img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"></a>
 <a href=""><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
 
-### Studying in this moment:
+### Learning in this moment:
 
 <a href=""><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
 <a href=""><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
@@ -65,16 +65,6 @@
 <a href=""><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
 <a href=""><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></a>
 
----
-
-### Learning in the Moment:
-
---- | Segunda | Terça | Querta | Quinta | Sexta | Sábado e Dominto 
----|---|---|---|---|---|---|
-**Ferramenta** | | | | | |
-**Por que?** | | | | | |
-
----
 
 ### My Projects:
 
