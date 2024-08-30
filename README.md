@@ -72,11 +72,6 @@
 
 ### My Main Projects:
 
-Nome | Data | Linguagens | Frameworks | Ferramentas | Participantes | Descrição
----|---|---|---|---|---|---|
-[**Sobre Min**](https://kauahssantos.github.io/About-Me/home/index.html) | 19/05/2024 | <a href=""><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a><a href=""><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a><a href=""> | | <a href=""><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a><a href="[https://github.com/KauahsSantos/](https://github.com/KauahsSantos/Exercicios-HTML-CSS)"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a><a href=""><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a><a href=""><img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white"></a><a href=""><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a><a href=""><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a><a href=""><img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white"></a> | [***@KauahsSantos***](https://github.com/KauahsSantos) | Uma pagina que da uma breve descrição sobre a minha pessoa e também fornece links para minhas redes sociais
-
-- OBS: **HTML e CSS** não são **Linguagens de Programação**, porém, nesse caso adicionei as mesmas nessa categoria para uma **melhor compreenção**. 👍? 😂!!!
 
 ---
 
