@@ -17,7 +17,7 @@
   <a href="https://www.youtube.com/@Kaua.hs.Santos/featured">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://www.twitch.tv/kauansantos_dev" target="_blank">
+  <a href="https://www.twitch.tv/kaua_hs_santos" target="_blank">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
   </a>
   <a href="https://www.instagram.com/kaua.santos.dev/" target="_blank">
