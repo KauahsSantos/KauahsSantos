@@ -34,6 +34,20 @@
   </a>
 </div> 
 
+# About Me:
+
+Olá! Seja bem-vindo ao meu Github.
+
+Sou Kauã Santos, um jovem de 17 anos apaixonado por programação e tecnologia. Meu coração bate mais forte quando estou mergulhado no mundo do desenvolvimento de software e desenvolvimento desktop, especialmente nas tecnologias de desenvolvimento de softwares, HTML/CSS Javascript, Java e Flutter.
+
+Atualmente, estou expandindo meu conhecimento técnico em Java, HTML/CSS, Javascript, React, Tailwind e Flutter. Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades.
+
+Meu objetivo é me tornar um engenheiro de software com ênfase em desenvolvimento desktop e contribuir para a criação de soluções inovadoras. 
+Estou sempre disposto a abraçar desafios e contribuir para projetos inovadores na área de desenvolvimento de software. 
+
+Busco oportunidades de aprendizado e crescimento profissional na área de T.I, seja como aprendiz, estagiário ou como júnior. Além de estar aberto a colaborações e Networking na comunidade de tecnologia.
+
+Estou ansioso para conectar com profissionais da área e compartilhar experiências.
 
 # Main skills:
 <img width="55px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
