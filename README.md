@@ -38,7 +38,7 @@
 
 Olá! Seja bem-vindo ao meu Github.
 
-Sou Kauã Santos, um jovem de 17 anos apaixonado por programação e tecnologia. Meu coração bate mais forte quando estou mergulhado no mundo do desenvolvimento de software e desenvolvimento desktop, especialmente nas tecnologias de desenvolvimento de softwares, HTML/CSS Javascript, Java e Flutter.
+Sou Kauã Santos, um jovem de 18 anos apaixonado por programação e tecnologia. Meu coração bate mais forte quando estou mergulhado no mundo do desenvolvimento de software com foco em desenvolvimento mobile e desktop, especialmente nas tecnologias de desenvolvimento, HTML/CSS Javascript, Java, Dart e Flutter.
 
 Atualmente, estou expandindo meu conhecimento técnico em Java, HTML/CSS, Javascript, React, Tailwind e Flutter. Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades.
 
@@ -49,57 +49,61 @@ Busco oportunidades de aprendizado e crescimento profissional na área de T.I, s
 
 Estou ansioso para conectar com profissionais da área e compartilhar experiências.
 
-# Main skills:
-<img width="55px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img width="55px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img width="55px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" />
+# Meu Foco 🔍
 
-# Tools:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dart,flutter,apple" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg" /> 
+  </a>
+</p>
 
-<img width="55px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-<img width="55px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
-<img width="55px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
-<img width="55px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img width="55px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-<img width="55px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
-<img width="55px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" />
-<img width="55px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-<img width="55px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
-<img width="55px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" />
-<img width="55px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
-<img width="55px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-<img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
+<br>
+
+# Linguagens e Tecnologias 💻
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dart,flutter,java,html,css,kotlin" />
+  </a>
+
+ ## Pretendo Aprender :
+  
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=js,nodejs,react,tailwind,mysql,postgres,electron,tauri,docker,kubernetes,postman" />
+    </a>
+  </p>
+</p>
+
+<br>
+
+# Ferramentas de Desenvolvimento 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,eclipse,git,github,figma" />
+  </a>
+</p>
+
+<br>
 
 
-# Learning in this moment:
+# Outros :
 
-<img width="55px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
-<img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,notion,obsidian,arduino,mint,p5js" />
+  </a>
+</p>
 
-# I intend to learn
-
-<img width="55px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img width="55px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img width="55px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-<img width="55px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-<img width="55px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-<img width="55px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" />
-<img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" />
+<br>
 
 ---
 
 <div align="center">  
   
   ![snake gif](https://github.com/kauahsSantos/KauahsSantos/blob/output/github-contribution-grid-snake.svg)
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
-</picture>
-  
 
 </div>
 
