@@ -94,7 +94,11 @@ Estou ansioso para conectar com profissionais da área e compartilhar experiênc
   ![snake gif](https://github.com/kauahsSantos/KauahsSantos/blob/output/github-contribution-grid-snake.svg)
 
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
+</picture>
   
 
 </div>
