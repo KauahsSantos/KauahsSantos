@@ -7,6 +7,8 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauahsSantos&layout=compact&hide_border=true&title_color=001090&text_color=fff&bg_color=0d1117" />
 </div>
 
+<br>
+
 <div align="center">  
   <a href="https://www.linkedin.com/in/kau%C3%A3-hiago-da-silva-santos-8931522ba/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
@@ -39,6 +41,7 @@
 <div align="center">
   
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KauahsSantos&theme=transparent)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KauahsSantos&theme=transparent)
   
 </div>
 
