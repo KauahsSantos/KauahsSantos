@@ -36,18 +36,22 @@
 
 # About Me:
 
-Olá! Seja bem-vindo ao meu Github.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-Sou Kauã Santos, um jovem de 18 anos apaixonado por programação e tecnologia. Meu coração bate mais forte quando estou mergulhado no mundo do desenvolvimento de software com foco em desenvolvimento mobile e desktop, especialmente nas tecnologias de desenvolvimento, HTML/CSS Javascript, Java, Dart e Flutter.
+<p align="left">
+  Olá! Seja bem-vindo ao meu Github.
+ 
+  Sou Kauã Santos, um jovem de 18 anos apaixonado por programação e tecnologia. Meu coração bate mais forte quando estou mergulhado no mundo do desenvolvimento de software com foco em desenvolvimento mobile e desktop, especialmente nas tecnologias de desenvolvimento, HTML/CSS Javascript, Java, Dart e Flutter.
 
-Atualmente, estou expandindo meu conhecimento técnico em Java, HTML/CSS, Javascript, React, Tailwind e Flutter. Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades.
+  Atualmente, estou expandindo meu conhecimento técnico em Java, HTML/CSS, Javascript, React, Tailwind e Flutter. Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades.
 
-Meu objetivo é me tornar um engenheiro de software com ênfase em desenvolvimento desktop e contribuir para a criação de soluções inovadoras. 
+  Meu objetivo é me tornar um engenheiro de software com ênfase em desenvolvimento desktop e contribuir para a criação de soluções inovadoras. 
 Estou sempre disposto a abraçar desafios e contribuir para projetos inovadores na área de desenvolvimento de software. 
 
-Busco oportunidades de aprendizado e crescimento profissional na área de T.I, seja como aprendiz, estagiário ou como júnior. Além de estar aberto a colaborações e Networking na comunidade de tecnologia.
+  Busco oportunidades de aprendizado e crescimento profissional na área de T.I, seja como aprendiz, estagiário ou como júnior. Além de estar aberto a colaborações e Networking na comunidade de tecnologia.
 
-Estou ansioso para conectar com profissionais da área e compartilhar experiências.
+  Estou ansioso para conectar com profissionais da área e compartilhar experiências.
+</p>
 
 # Meu Foco 🔍
 
