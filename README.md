@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=001090&height=180&section=header&text=Hi,+World!!!++I'm+Kauã+Santos&fontSize=25&fontColor=fff&animation=twinkling&fontAlignY=35"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=001090&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+Name's+Kauã+Santos.;I'm+18+years+old;I+am+from+SP,+São+Paulo+Brasil;I'm+a+just+Study+Software+Development.;I+love+Nobile+Development+;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=001090&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+Name's+Kauã+Santos.;I'm+18+years+old;I+am+from+SP,+São+Paulo+Brasil;I'm+a+just+Study+Software+Development.;I+love+Mobile+Development+;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=KauahsSantos&show_icons=true&theme=dark&light&title_color=001090&icon_color=c9d1d9&text_color=c9d1d9&bg_color=0d1117&border_radius=15&border_color=0d1117&include_all_commits=true&count_private=true&rank_icon=github"/>
