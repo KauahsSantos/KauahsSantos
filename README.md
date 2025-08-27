@@ -68,7 +68,7 @@ Estou sempre disposto a abraçar desafios e contribuir para projetos inovadores 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,apple" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,apple,swift" />
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg" /> 
   </a>
 </p>
