@@ -44,22 +44,24 @@
 
 # About Me:
 
+<!-- Dropdown -->
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left">
   Olá! Seja bem-vindo ao meu Github.
  
   Sou Kauã Santos, um jovem de 18 anos apaixonado por programação e tecnologia. Meu coração bate mais forte quando estou mergulhado no mundo do desenvolvimento de software com foco em desenvolvimento mobile e desktop, especialmente nas tecnologias de desenvolvimento, Swift, Java, Dart e Flutter.
-
   Atualmente, estou expandindo meu conhecimento técnico em Java, Dart e Flutter. Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades.
+  
+<details>
+  <summary>👨‍💻 More about me</summary>
+  
+  <p align="left">
+    
+  Meu objetivo é me tornar um engenheiro de software com ênfase em desenvolvimento mobile e desktop e contribuir para a criação de soluções inovadoras. Estou sempre disposto a abraçar desafios e contribuir para projetos inovadores na área de desenvolvimento de software. Busco oportunidades de aprendizado e crescimento profissional na área de T.I, seja como aprendiz, estagiário ou como júnior. Além de estar aberto a colaborações e Networking na comunidade de tecnologia. Estou ansioso para conectar com profissionais da área e compartilhar experiências.
+  </p>
+</details>
 
-  Meu objetivo é me tornar um engenheiro de software com ênfase em desenvolvimento mobile e desktop e contribuir para a criação de soluções inovadoras. 
-Estou sempre disposto a abraçar desafios e contribuir para projetos inovadores na área de desenvolvimento de software. 
-
-  Busco oportunidades de aprendizado e crescimento profissional na área de T.I, seja como aprendiz, estagiário ou como júnior. Além de estar aberto a colaborações e Networking na comunidade de tecnologia.
-
-  Estou ansioso para conectar com profissionais da área e compartilhar experiências.
-</p>
 
 # Meu Foco 🔍
 
