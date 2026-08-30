@@ -30,15 +30,13 @@
 
 <br>
 
-[![KauahsSantos github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KauahsSantos&bg_color=dracula&color=001090&line=fff&point=001090&area=true&border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-[![KauahsSantos github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KauahsSantos&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 <div align="center">
   
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KauahsSantos&theme=transparent)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KauahsSantos&theme=transparent)
+  ![Streak (plain)](https://coolreadme.xyz/api/streak-plain?user=KauahsSantos&theme=dark&accent=%2360A5FA)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KauahsSantos&theme=transparent)
+  <!---![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KauahsSantos&theme=transparent)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KauahsSantos&theme=transparent)-->
+  ![GitHub Profile Stats](https://kgnio-profile-card.vercel.app/api/card?user=KauahsSantos&theme=azure-noir)
   
 </div>
 
