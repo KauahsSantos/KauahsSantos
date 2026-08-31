@@ -17,6 +17,8 @@ Transformo estudo em projetos versionados, documentação clara e evolução con
 
 ## Sobre mim
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 Estou construindo uma base sólida em engenharia de software com foco em aplicações mobile e interesse também por desenvolvimento desktop. Atualmente estudo **Java**, **Dart/Flutter** e **algoritmos**, transformando teoria em código público e documentado.
 
 > Meu objetivo é desenvolver soluções cada vez mais completas, compreensíveis e fáceis de evoluir — aprendendo os fundamentos antes de depender das abstrações.
