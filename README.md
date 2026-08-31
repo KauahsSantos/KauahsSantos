@@ -4,7 +4,7 @@
 
 ### Estudante de Desenvolvimento de Software
 
-**São Paulo, Brasil 🇧🇷 · Aprendendo em público · Construindo com consistência**
+**São Paulo, Brasil 🇧🇷 · Mobile · Java · Dart / Flutter**
 
 Transformo estudo em projetos versionados, documentação clara e evolução contínua.
 
@@ -17,34 +17,58 @@ Transformo estudo em projetos versionados, documentação clara e evolução con
 
 ## Sobre mim
 
-Estou construindo uma base sólida em engenharia de software, com foco em aplicações mobile e interesse também por desenvolvimento desktop. Atualmente estudo **Java**, **Dart/Flutter** e **algoritmos**, sempre buscando transformar teoria em código público e bem documentado.
+Estou construindo uma base sólida em engenharia de software com foco em aplicações mobile e interesse também por desenvolvimento desktop. Atualmente estudo **Java**, **Dart/Flutter** e **algoritmos**, transformando teoria em código público e documentado.
 
-Gosto de entender o problema antes de escolher a tecnologia, organizar o aprendizado em etapas e melhorar cada projeto de forma incremental. Estou aberto a oportunidades de **estágio**, posições **júnior**, colaboração em projetos e troca de conhecimento com a comunidade.
+> Meu objetivo é desenvolver soluções cada vez mais completas, compreensíveis e fáceis de evoluir — aprendendo os fundamentos antes de depender das abstrações.
 
-## Ecossistema mobile
+Estou aberto a oportunidades de **estágio**, posições **júnior**, colaboração em projetos e troca de conhecimento com a comunidade.
+
+## Ecossistema principal
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,apple,swift&amp;theme=dark" alt="Dart, Flutter, Apple e Swift" />
+    <img src="https://skillicons.dev/icons?i=java,dart,flutter,androidstudio,apple,swift,git,github&amp;theme=dark&amp;perline=8" alt="Java, Dart, Flutter, Android Studio, Apple, Swift, Git e GitHub" />
   </a>
-  &nbsp;&nbsp;
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg" alt="Android" />
 </p>
 
 <p align="center">
-  <strong>Foco atual:</strong> Dart e Flutter &nbsp;•&nbsp; <strong>Ecossistemas que exploro:</strong> Android, iOS e Swift
+  <strong>Foco atual:</strong> Java, Dart e Flutter
+  &nbsp;•&nbsp;
+  <strong>Ecossistemas que exploro:</strong> Android, iOS e Swift
 </p>
 
 ## Projetos em destaque
 
-| Projeto | O que você encontra | Foco |
-| --- | --- | --- |
-| [Learning Algorithm](https://github.com/KauahsSantos/Learning-Algorithm) | Estudos organizados entre teoria e prática para desenvolver raciocínio lógico | Algoritmos · Lógica · Documentação |
-| [Learning Dart](https://github.com/KauahsSantos/Learning-Dart) | Roadmap público de fundamentos de Dart e evolução em Flutter | Dart · Flutter · Mobile |
-| [Project Calculator](https://github.com/KauahsSantos/project-calculator) | Calculadora de terminal para praticar condicionais, operações matemáticas e entrada/saída | Java · Fundamentos |
-| [About Me](https://github.com/KauahsSantos/About-Me) | Site pessoal para reunir apresentação, projetos e canais de contato | HTML · CSS · Web |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/KauahsSantos/project-calculator">🧮 Project Calculator</a></h3>
+      <p>Calculadora de terminal criada para aplicar condicionais, operações matemáticas e entrada/saída.</p>
+      <p><code>Java</code> <code>CLI</code> <code>Fundamentos</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/KauahsSantos/Learning-Algorithm">🧠 Learning Algorithm</a></h3>
+      <p>Estudos organizados entre teoria e prática para desenvolver raciocínio lógico e resolução de problemas.</p>
+      <p><code>Algoritmos</code> <code>Java</code> <code>Lógica</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/KauahsSantos/Learning-Dart">📱 Learning Dart</a></h3>
+      <p>Roadmap público de fundamentos de Dart e evolução progressiva no ecossistema Flutter.</p>
+      <p><code>Dart</code> <code>Flutter</code> <code>Mobile</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/KauahsSantos/About-Me">🌐 About Me</a></h3>
+      <p>Site pessoal criado para reunir apresentação, projetos e canais de contato.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>Web</code></p>
+    </td>
+  </tr>
+</table>
 
-> Os repositórios refletem meu processo real de aprendizado: objetivos, prática, documentação e próximas etapas.
+<p align="center">
+  <sub>Projetos reais, objetivos visíveis e evolução documentada.</sub>
+</p>
 
 ## Tecnologias e ferramentas
 
@@ -72,30 +96,49 @@ Gosto de entender o problema antes de escolher a tecnologia, organizar o aprendi
 </div>
 
 <p align="center">
-  <sub>As estatísticas são calculadas a partir dos repositórios públicos e representam atividade, não nível de proficiência.</sub>
+  <sub>As estatísticas consideram os repositórios públicos e representam atividade, não nível de proficiência.</sub>
 </p>
 
-## Como penso sobre desenvolvimento
+## Como trabalho
 
-- **Fundamentos antes de frameworks:** lógica, estruturas de dados e orientação a objetos sustentam decisões melhores.
-- **Código precisa ser compreensível:** nomes claros, organização e documentação fazem parte da solução.
-- **Evolução acontece em ciclos curtos:** estudar, implementar, revisar e registrar o que aprendi.
-- **Qualidade é um hábito:** meu próximo passo é ampliar a prática com testes, arquitetura e integração com APIs.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 · Fundamentos</h3>
+      <p>Lógica, orientação a objetos e estruturas de dados antes de frameworks e abstrações.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 · Clareza</h3>
+      <p>Código compreensível, nomes claros, documentação objetiva e decisões registradas.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>03 · Iteração</h3>
+      <p>Entregas pequenas, revisão frequente e evolução que pode ser acompanhada pelo histórico.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>04 · Qualidade</h3>
+      <p>Testes, automação e tratamento explícito dos casos de falha como próximos hábitos.</p>
+    </td>
+  </tr>
+</table>
 
 ## Em evolução
 
-- Aprofundando fundamentos de Java e Dart.
-- Avançando nos estudos de Flutter e desenvolvimento mobile.
-- Organizando exercícios de algoritmos entre teoria e prática.
-- Transformando os estudos em projetos de portfólio cada vez mais completos.
+- Aprofundando fundamentos de **Java** e **Dart**.
+- Avançando nos estudos de **Flutter** e desenvolvimento mobile.
+- Organizando exercícios de **algoritmos** entre teoria e prática.
+- Evoluindo os projetos com **testes**, integração com **APIs** e decisões de arquitetura documentadas.
 
 ## Vamos conversar?
 
 <div align="center">
 
-Se você trabalha com desenvolvimento mobile, Java, Flutter ou tem uma oportunidade em que eu possa aprender e contribuir, ficarei feliz em conversar.
+Se você trabalha com desenvolvimento mobile, Java ou Flutter — ou tem uma oportunidade em que eu possa aprender e contribuir — ficarei feliz em conversar.
 
-**[Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/kau%C3%A3-hiago-da-silva-santos-8931522ba/)** · **[Veja meus repositórios](https://github.com/KauahsSantos?tab=repositories)**
+[![Conectar no LinkedIn](https://img.shields.io/badge/Conectar_no_LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/kau%C3%A3-hiago-da-silva-santos-8931522ba/)
+[![Ver repositórios](https://img.shields.io/badge/Ver_repositórios-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/KauahsSantos?tab=repositories)
 
 </div>
 
