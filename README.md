@@ -31,12 +31,13 @@
 <br>
 
 <div align="center">
+<!--   --->
   
   ![Streak (plain)](https://coolreadme.xyz/api/streak-plain?user=KauahsSantos&theme=dark&accent=%2360A5FA)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KauahsSantos&theme=transparent)
-  <!---![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KauahsSantos&theme=transparent)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KauahsSantos&theme=transparent)-->
-  ![GitHub Profile Stats](https://kgnio-profile-card.vercel.app/api/card?user=KauahsSantos&theme=azure-noir)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KauahsSantos&theme=transparent)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KauahsSantos&theme=transparent)
+  <!--![GitHub Profile Stats](https://kgnio-profile-card.vercel.app/api/card?user=KauahsSantos&theme=azure-noir)--->
   
 </div>
 
