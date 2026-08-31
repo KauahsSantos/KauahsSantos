@@ -1,17 +1,17 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,55:1F6FEB,100:8250DF&amp;height=220&amp;section=header&amp;text=Kau%C3%A3%20Santos&amp;fontSize=46&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Mobile%20%E2%80%A2%20Java%20%E2%80%A2%20Dart%20%2F%20Flutter&amp;descAlignY=55&amp;descSize=18" alt="Kauã Santos — Mobile, Java, Dart e Flutter" />
+
 <div align="center">
 
-# Kauã Santos
+### Estudante de Desenvolvimento de Software
 
-**Estudante de Desenvolvimento de Software · Mobile · Java · Dart/Flutter**
-
-São Paulo, Brasil 🇧🇷
+**São Paulo, Brasil 🇧🇷 · Aprendendo em público · Construindo com consistência**
 
 Transformo estudo em projetos versionados, documentação clara e evolução contínua.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kau%C3%A3-hiago-da-silva-santos-8931522ba/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KauahsSantos)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Kaua.hs.Santos)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/kaua_hs_santos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/kau%C3%A3-hiago-da-silva-santos-8931522ba/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/KauahsSantos)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white)](https://www.youtube.com/@Kaua.hs.Santos)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&amp;logo=twitch&amp;logoColor=white)](https://www.twitch.tv/kaua_hs_santos)
 
 </div>
 
@@ -21,30 +21,76 @@ Estou construindo uma base sólida em engenharia de software, com foco em aplica
 
 Gosto de entender o problema antes de escolher a tecnologia, organizar o aprendizado em etapas e melhorar cada projeto de forma incremental. Estou aberto a oportunidades de **estágio**, posições **júnior**, colaboração em projetos e troca de conhecimento com a comunidade.
 
-## Projetos e laboratório
+## Ecossistema mobile
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dart,flutter,apple,swift&amp;theme=dark" alt="Dart, Flutter, Apple e Swift" />
+  </a>
+  &nbsp;&nbsp;
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg" alt="Android" />
+</p>
+
+<p align="center">
+  <strong>Foco atual:</strong> Dart e Flutter &nbsp;•&nbsp; <strong>Ecossistemas que exploro:</strong> Android, iOS e Swift
+</p>
+
+## Projetos em destaque
+
+<div align="center">
+
+<a href="https://github.com/KauahsSantos/project-calculator">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=KauahsSantos&amp;repo=project-calculator&amp;theme=github_dark&amp;hide_border=true" alt="Project Calculator" />
+</a>
+<a href="https://github.com/KauahsSantos/Learning-Algorithm">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=KauahsSantos&amp;repo=Learning-Algorithm&amp;theme=github_dark&amp;hide_border=true" alt="Learning Algorithm" />
+</a>
+<a href="https://github.com/KauahsSantos/Learning-Dart">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=KauahsSantos&amp;repo=Learning-Dart&amp;theme=github_dark&amp;hide_border=true" alt="Learning Dart" />
+</a>
+<a href="https://github.com/KauahsSantos/About-Me">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=KauahsSantos&amp;repo=About-Me&amp;theme=github_dark&amp;hide_border=true" alt="About Me" />
+</a>
+
+</div>
 
 | Projeto | O que você encontra | Foco |
 | --- | --- | --- |
 | [Learning Algorithm](https://github.com/KauahsSantos/Learning-Algorithm) | Estudos organizados entre teoria e prática para desenvolver raciocínio lógico | Algoritmos · Lógica · Documentação |
 | [Learning Dart](https://github.com/KauahsSantos/Learning-Dart) | Roadmap público de fundamentos de Dart e evolução em Flutter | Dart · Flutter · Mobile |
-| [Project Calculator](https://github.com/KauahsSantos/project-calculator) | Calculadora de terminal criada para praticar condicionais, operações matemáticas e entrada/saída | Java · Fundamentos |
+| [Project Calculator](https://github.com/KauahsSantos/project-calculator) | Calculadora de terminal para praticar condicionais, operações matemáticas e entrada/saída | Java · Fundamentos |
 | [About Me](https://github.com/KauahsSantos/About-Me) | Site pessoal para reunir apresentação, projetos e canais de contato | HTML · CSS · Web |
 
 > Os repositórios refletem meu processo real de aprendizado: objetivos, prática, documentação e próximas etapas.
 
-## Tecnologias que uso e estudo
+## Tecnologias e ferramentas
 
-<div align="left">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,dart,flutter,html,css,kotlin,git,github&amp;theme=dark&amp;perline=8" alt="Java, Dart, Flutter, HTML, CSS, Kotlin, Git e GitHub" />
+  </a>
+</p>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,eclipse,figma,linux,ubuntu,notion,obsidian&amp;theme=dark&amp;perline=8" alt="VS Code, Android Studio, Eclipse, Figma, Linux, Ubuntu, Notion e Obsidian" />
+  </a>
+</p>
+
+## GitHub em números
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=KauahsSantos&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;include_all_commits=true&amp;locale=pt-br" alt="Estatísticas do GitHub de Kauã Santos" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauahsSantos&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;langs_count=6&amp;locale=pt-br" alt="Linguagens mais usadas nos repositórios públicos" />
+
+<img width="94%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KauahsSantos&amp;theme=github_dark" alt="Gráfico de atividade do perfil" />
 
 </div>
+
+<p align="center">
+  <sub>As estatísticas são calculadas a partir dos repositórios públicos e representam atividade, não nível de proficiência.</sub>
+</p>
 
 ## Como penso sobre desenvolvimento
 
@@ -53,7 +99,7 @@ Gosto de entender o problema antes de escolher a tecnologia, organizar o aprendi
 - **Evolução acontece em ciclos curtos:** estudar, implementar, revisar e registrar o que aprendi.
 - **Qualidade é um hábito:** meu próximo passo é ampliar a prática com testes, arquitetura e integração com APIs.
 
-## Agora
+## Em evolução
 
 - Aprofundando fundamentos de Java e Dart.
 - Avançando nos estudos de Flutter e desenvolvimento mobile.
@@ -62,12 +108,18 @@ Gosto de entender o problema antes de escolher a tecnologia, organizar o aprendi
 
 ## Vamos conversar?
 
+<div align="center">
+
 Se você trabalha com desenvolvimento mobile, Java, Flutter ou tem uma oportunidade em que eu possa aprender e contribuir, ficarei feliz em conversar.
 
 **[Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/kau%C3%A3-hiago-da-silva-santos-8931522ba/)** · **[Veja meus repositórios](https://github.com/KauahsSantos?tab=repositories)**
 
----
+</div>
+
+## Contribuições
 
 <div align="center">
-  <sub>Aprendendo em público, construindo com consistência.</sub>
+  <img width="100%" src="https://raw.githubusercontent.com/KauahsSantos/KauahsSantos/output/github-contribution-grid-snake.svg" alt="Animação das contribuições de Kauã Santos" />
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:8250DF,45:1F6FEB,100:0D1117&amp;height=130&amp;section=footer" alt="" />
