@@ -37,23 +37,6 @@ Gosto de entender o problema antes de escolher a tecnologia, organizar o aprendi
 
 ## Projetos em destaque
 
-<div align="center">
-
-<a href="https://github.com/KauahsSantos/project-calculator">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=KauahsSantos&amp;repo=project-calculator&amp;theme=github_dark&amp;hide_border=true" alt="Project Calculator" />
-</a>
-<a href="https://github.com/KauahsSantos/Learning-Algorithm">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=KauahsSantos&amp;repo=Learning-Algorithm&amp;theme=github_dark&amp;hide_border=true" alt="Learning Algorithm" />
-</a>
-<a href="https://github.com/KauahsSantos/Learning-Dart">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=KauahsSantos&amp;repo=Learning-Dart&amp;theme=github_dark&amp;hide_border=true" alt="Learning Dart" />
-</a>
-<a href="https://github.com/KauahsSantos/About-Me">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=KauahsSantos&amp;repo=About-Me&amp;theme=github_dark&amp;hide_border=true" alt="About Me" />
-</a>
-
-</div>
-
 | Projeto | O que você encontra | Foco |
 | --- | --- | --- |
 | [Learning Algorithm](https://github.com/KauahsSantos/Learning-Algorithm) | Estudos organizados entre teoria e prática para desenvolver raciocínio lógico | Algoritmos · Lógica · Documentação |
@@ -81,8 +64,8 @@ Gosto de entender o problema antes de escolher a tecnologia, organizar o aprendi
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=KauahsSantos&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;include_all_commits=true&amp;locale=pt-br" alt="Estatísticas do GitHub de Kauã Santos" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauahsSantos&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;langs_count=6&amp;locale=pt-br" alt="Linguagens mais usadas nos repositórios públicos" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KauahsSantos&amp;theme=github_dark" alt="Estatísticas do GitHub de Kauã Santos" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KauahsSantos&amp;theme=github_dark" alt="Linguagens mais usadas nos repositórios públicos" />
 
 <img width="94%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KauahsSantos&amp;theme=github_dark" alt="Gráfico de atividade do perfil" />
 
