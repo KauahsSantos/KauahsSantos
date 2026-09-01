@@ -114,7 +114,7 @@ Estou aberto a oportunidades de **estágio**, posições **júnior**, colaboraç
 <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KauahsSantos&amp;theme=github_dark" alt="Estatísticas do GitHub de Kauã Santos" />
 <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KauahsSantos&amp;theme=github_dark" alt="Linguagens mais usadas nos repositórios públicos" />
 
-<img width="94%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KauahsSantos&amp;theme=github_dark" alt="Gráfico de atividade do perfil" />
+<img width="94%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KauahsSantos&amp;theme=transparent" alt="Gráfico de atividade do perfil" />
 
 </div>
 
