@@ -51,7 +51,7 @@ Estou aberto a oportunidades de **estágio**, posições **júnior**, colaboraç
     <td width="50%" valign="top">
       <h3><a href="https://github.com/KauahsSantos/Learning-Algorithm">🧠 Learning Algorithm</a></h3>
       <p>Estudos organizados entre teoria e prática para desenvolver raciocínio lógico e resolução de problemas.</p>
-      <p><code>Algoritmos</code> <code>Java</code> <code>Lógica</code></p>
+      <p><code>Dart</code> <code>Java</code> <code>Lógica</code></p>
     </td>
   </tr>
   <tr>
