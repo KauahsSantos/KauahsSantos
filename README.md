@@ -15,6 +15,25 @@ Transformo estudo em projetos versionados, documentação clara e evolução con
 
 </div>
 
+## Meu portfólio
+
+<a href="https://kauahssantos.github.io/About-Me/home/index.html">
+  <img width="100%" src="https://raw.githubusercontent.com/KauahsSantos/About-Me/main/home/assets/og-portfolio.jpg" alt="Portfólio de Kauã Santos — Desenvolvedor de Software" />
+</a>
+
+<p align="center">
+  Meu portfólio reúne minha apresentação, habilidades, projetos em destaque e todos os caminhos para acompanhar meu trabalho.
+</p>
+
+<p align="center">
+  <a href="https://kauahssantos.github.io/About-Me/home/index.html">
+    <img src="https://img.shields.io/badge/Visitar_portfólio-5FF5CF?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=080B12" alt="Visitar portfólio" />
+  </a>
+  <a href="https://github.com/KauahsSantos/About-Me">
+    <img src="https://img.shields.io/badge/Ver_código-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Ver código do portfólio" />
+  </a>
+</p>
+
 ## Sobre mim
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
@@ -61,9 +80,9 @@ Estou aberto a oportunidades de **estágio**, posições **júnior**, colaboraç
       <p><code>Dart</code> <code>Flutter</code> <code>Mobile</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/KauahsSantos/About-Me">🌐 About Me</a></h3>
-      <p>Site pessoal criado para reunir apresentação, projetos e canais de contato.</p>
-      <p><code>HTML</code> <code>CSS</code> <code>Web</code></p>
+      <h3><a href="https://kauahssantos.github.io/About-Me/home/index.html">🌐 Portfólio pessoal</a></h3>
+      <p>Experiência responsiva que reúne apresentação, habilidades, projetos e canais de contato.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code> · <a href="https://github.com/KauahsSantos/About-Me">código-fonte</a></p>
     </td>
   </tr>
 </table>
