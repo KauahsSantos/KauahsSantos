@@ -15,7 +15,7 @@ Transformo estudo em projetos versionados, documentação clara e evolução con
 
 </div>
 
-## Meu portfólio
+<!-- ## Meu portfólio
 
 <a href="https://kauahssantos.github.io/About-Me/home/index.html">
   <img width="100%" src="https://raw.githubusercontent.com/KauahsSantos/About-Me/main/home/assets/og-portfolio.jpg" alt="Portfólio de Kauã Santos — Desenvolvedor de Software" />
@@ -33,6 +33,8 @@ Transformo estudo em projetos versionados, documentação clara e evolução con
     <img src="https://img.shields.io/badge/Ver_código-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Ver código do portfólio" />
   </a>
 </p>
+
+-->
 
 ## Sobre mim
 
