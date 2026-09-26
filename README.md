@@ -65,6 +65,18 @@ Estou aberto a oportunidades de **estágio**, posições **júnior**, colaboraç
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/KauahsSantos/Contsct-list">📝️ Lista de Contatos</a></h3>
+      <p>Lista de Contatos de terminal criada para aplicar condicionais, Maps, funções e entrada/saída de dados.</p>
+      <p><code>Dart</code> <code>VS Code</code> <code>Fundamentos</code> · <a href="https://github.com/KauahsSantos/Contsct-list">código-fonte</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/KauahsSantos/Learning-Java">☕️ Learning Java</a></h3>
+      <p>Estudos organizados entre teoria e prática para desenvolver raciocínio lógico e resolução de problemas na linguagem de programação java.</p>
+      <p><code>Java</code> <code>Eclipse IDE</code> <code>Lógica</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/KauahsSantos/project-calculator">🧮 Project Calculator</a></h3>
       <p>Calculadora de terminal criada para aplicar condicionais, operações matemáticas e entrada/saída.</p>
       <p><code>Java</code> <code>CLI</code> <code>Fundamentos</code></p>
