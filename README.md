@@ -67,7 +67,7 @@ Estou aberto a oportunidades de **estágio**, posições **júnior**, colaboraç
     <td width="50%" valign="top">
       <h3><a href="https://github.com/KauahsSantos/Contact-list">📝️ Lista de Contatos</a></h3>
       <p>Lista de Contatos de terminal criada para aplicar condicionais, Maps, funções e entrada/saída de dados.</p>
-      <p><code>Dart</code> <code>VS Code</code> <code>Fundamentos</code> · <a href="https://github.com/KauahsSantos/Contact-list">código-fonte</a></p>
+      <p><code>Dart</code> <code>VS Code</code> <code>Fundamentos</code> · <a href="https://github.com/KauahsSantos/Contact-list/main.dart">código-fonte</a></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/KauahsSantos/Learning-Java">☕️ Learning Java</a></h3>
