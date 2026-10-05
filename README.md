@@ -65,6 +65,13 @@ Estou aberto a oportunidades de **estágio**, posições **júnior**, colaboraç
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/KauahsSantos/Calculator-Dart">📱️ Dart Calculator</a></h3>
+      <p>Calculadora de terminal criada para aplicar classes, operações matemáticas, entrada/saída de dados, imports de arquivos em Dart e métodos, POO no geral .</p>
+      <p><code>Dart</code> <code>Vs Code</code> <code>POO</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/KauahsSantos/Contact-list">📝️ Lista de Contatos</a></h3>
       <p>Lista de Contatos de terminal criada para aplicar condicionais, Maps, funções e entrada/saída de dados.</p>
       <p><code>Dart</code> <code>VS Code</code> <code>Fundamentos</code> · <a href="https://github.com/KauahsSantos/Contact-List/blob/main/main.dart">código-fonte</a></p>
