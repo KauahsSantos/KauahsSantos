@@ -65,6 +65,11 @@ Estou aberto a oportunidades de **estágio**, posições **júnior**, colaboraç
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/KauahsSantos/Contact-List-V-0.1">📱️ Dart Lista De Contatos v1</a></h3>
+      <p>Lisda de cadastras contados - CRUD - de terminal criada para aplicar classes, operações matemáticas, entrada/saída de dados, imports de arquivos em Dart e métodos, POO no geral .</p>
+      <p><code>Dart</code> <code>CRUD</code> <code>POO</code> · <a href="https://github.com/KauahsSantos/Contact-List-V-0.1/blob/main/main.dart">código-fonte</a></p>
+    </td>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/KauahsSantos/Calculator-Dart">📱️ Dart Calculator</a></h3>
       <p>Calculadora de terminal criada para aplicar classes, operações matemáticas, entrada/saída de dados, imports de arquivos em Dart e métodos, POO no geral .</p>
       <p><code>Dart</code> <code>Vs Code</code> <code>POO</code></p>
